@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMfI0Q8e25c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaming\\Downloads\\Unknown-Template\\Unknown-Template\\Template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaming\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.3\\bepinex.assemblypublicizer.msbuild.0.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
